@@ -40,12 +40,13 @@
   </a>
 </div>
 
+
 <br/>
 <br/>
-<br/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,github" />
@@ -53,7 +54,6 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,androidstudio,vite,redux" /><br>
 </div>
 
-<br/>
 <br/>
 
 <div align="center">
