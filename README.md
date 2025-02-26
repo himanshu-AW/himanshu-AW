@@ -1,10 +1,10 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=himanshu-aw&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-aw" /> </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu+Chauhan!;+I'm+Full+Stack+Developer!;+I'm+Android+Developer!;+I'm+Data+Analysts!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu+Chauhan!;+I'm+a+Full+Stack+Developer!;+I'm+an+Android+Developer!;+I'm+a+Data+Analysts!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate Full-Stack Developer aw well as Data Analysts from India</h3>
 
 <br/>
 
