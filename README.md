@@ -9,7 +9,6 @@
 <h3 align="center">A passionate Full-Stack Developer as well as Data Analysts from India</h3>
 
 <br/>
-
     
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -42,10 +41,8 @@
   </a>
 </div>
 
-
 <br/><br/>
 
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
@@ -56,8 +53,6 @@
     <img src="https://skillicons.dev/icons?i=aws,gcp,azure,androidstudio,vite,redux" /><br>
 </div>
 
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -65,7 +60,7 @@
 <img width="380" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=himanshu-aw&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 &nbsp;&nbsp;  
 <img width=380 src="https://github-readme-stats.vercel.app/api?username=himanshu-aw&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-            </p>
+</p>
   <img width=328 src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-aw&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
