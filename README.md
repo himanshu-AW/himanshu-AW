@@ -50,7 +50,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=reactnative,androidstudio,pandas,numpy,matplotlib,excel,powerbi,tableau" /><br>
+    <img src="https://skillicons.dev/icons?i=react-native,androidstudio,pandas,numpy,matplotlib,excel,power-bi,tableau" /><br>
 </div>
 
 <br/>
