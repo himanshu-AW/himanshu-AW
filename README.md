@@ -48,9 +48,9 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,java,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=react-native,androidstudio,pandas,numpy,matplotlib,excel,power-bi,tableau" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,express,firebase,mongodb,cpp,java,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,androidstudio,vite,redux" /><br>
 </div>
 
 <br/>
