@@ -8,7 +8,20 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
+ 
+ 🔭 I’m currently working on **Ungrammary Cratives Pvt Ltd**
+ 
+ 🌱 I’m currently learning **React Native and Data Analytics*S**
+
+💬 Ask me about **React, Node, Express, MongoDB, MySQL, React Native, Python, Java, Power Bi, Tableau...**
+
+👨‍💻 All of my projects are available at [himanshu.aw.app](https://github.com/himanshu-AW)
+
+📄 Know about my experiences [himanshu.aw.app](www.linkedin.com/in/himanshu-aw)
+
+ </div>
+ <div align="right">
  
  🔭 I’m currently working on **Ungrammary Cratives Pvt Ltd**
  
