@@ -27,7 +27,7 @@
  
  🌱 I’m currently learning **React Native and Data Analytics*S**
 
-💬 Ask me about **React, Node, Express, MongoDB, MySQL, React Native, Python, Java, Power Bi, Tableau...**
+💬 Ask me about **React, Node, Express, MongoDB, MySQL, **
 
 👨‍💻 All of my projects are available at [himanshu.aw.app](https://github.com/himanshu-AW)
 
