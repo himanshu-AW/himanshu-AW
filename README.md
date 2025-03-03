@@ -26,7 +26,21 @@
 
 </div>
 
-<div align="left"> 
+<br/><br/><br/><br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,express,firebase,mongodb,cpp,java,mysql,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,androidstudio,vite,redux" /><br>
+</div>
+
+<br/>
+<h2 align="center"> Connect with us 👇</h2>
+
+<div align="center"> 
   <a href="mailto:himanshu.pro1810@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -39,18 +53,13 @@
   <a href="https://himanshu-AW.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
-
-<br/><br/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<br/>
-
+    
+ <br/>
+ 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,py,javascript,typescript,express,firebase,mongodb,cpp,java,mysql,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,androidstudio,vite,redux" /><br>
+    
+![snake gif](https://github.com/himanshu-aw/himanshu-aw/blob/output/github-snake-dark.svg)
+</div>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
