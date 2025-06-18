@@ -16,7 +16,7 @@
      
  🔭 I’m currently working on **Ungrammary Cratives Pvt Ltd**
  
- 🌱 I’m currently learning **React Native and Data Analytics**
+ 🌱 I’m currently learning **React Native..**
 
 💬 Ask me about **React, MongoDB, MySQL, Python, Java, Power Bi, Tableau ...**
 
