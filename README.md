@@ -14,7 +14,7 @@
 
  <div align="left">
      
- 🔭 I’m currently working on **Ungrammary Cratives Pvt Ltd**
+ 🔭 I’m currently working on **Kotak Mahindra Bank Pvt Ltd**
  
  🌱 I’m currently learning **React Native..**
 
